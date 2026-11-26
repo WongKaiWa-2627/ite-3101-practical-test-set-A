@@ -4,7 +4,7 @@ def main():
     area = 71.25
     upper_length = 10.5
     lower_length = 18
-    h = 
+    h = 5
 
 if __name__ == "__main__":
     # execute only if run as a script
