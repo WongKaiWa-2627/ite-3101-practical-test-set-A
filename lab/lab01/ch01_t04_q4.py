@@ -1,6 +1,6 @@
 def is_right_angle(a: float, b: float, c: float) -> bool:
     # Replace pass with your Python code.
-    sides (3, 4 and )
+    sides (3, 4 and 5)
 
 
 def main():
