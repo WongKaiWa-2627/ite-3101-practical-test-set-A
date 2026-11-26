@@ -1,11 +1,11 @@
 def is_right_angle(a: float, b: float, c: float) -> bool:
     # Replace pass with your Python code.
-    side (3, 4 and 5)
+    bool (3, 4 and 5)
 
 
 def main():
     # Replace pass with your Python code.
-    side (1, 2 and 3)
+    b (1, 2 and 3)
 
 
 if __name__ == "__main__":
