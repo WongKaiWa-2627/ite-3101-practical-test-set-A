@@ -1,6 +1,6 @@
 def is_right_angle(a: float, b: float, c: float) -> bool:
     # Replace pass with your Python code.
-    3 + 4 = 5: float
+    3 + 4 = 5
     a = 3
     b = 4
     c = 5
