@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    if bool
+    if booleanExpr
 
 
 if __name__ == "__main__":
