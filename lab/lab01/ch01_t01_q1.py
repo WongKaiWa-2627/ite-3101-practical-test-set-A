@@ -2,7 +2,8 @@ def main():
     # Replace pass with your Python code.
     if booleanExpression1:
         statement(45)
-    else
+    else:
+        stam
 
 
 if __name__ == "__main__":
