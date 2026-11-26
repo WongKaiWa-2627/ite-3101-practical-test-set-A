@@ -3,7 +3,7 @@ def main():
     if booleanExpression1:
         statement(45)
     else:
-        stam
+        stat
 
 
 if __name__ == "__main__":
