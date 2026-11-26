@@ -7,4 +7,4 @@ if __name__ == "__main__":
     # execute only if run as a script
     main()
 
-type 45 
+type 45 (both 3 or 5)
