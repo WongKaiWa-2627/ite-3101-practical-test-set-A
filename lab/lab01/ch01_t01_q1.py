@@ -8,4 +8,4 @@ if __name__ == "__main__":
     main()
 
 type 45 (both 3 or 5)
-type 35 (both )
+type 35 (both 3 or 5)
