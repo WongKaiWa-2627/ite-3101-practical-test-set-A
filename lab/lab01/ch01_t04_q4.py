@@ -9,8 +9,8 @@ def main():
     # Replace pass with your Python code.
     1 + 2 = 3
     side a = 1
-    b = 2
-    c = 3
+    side b = 2
+    side c = 3
 
 if __name__ == "__main__":
     # execute only if run as a script
