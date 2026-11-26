@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    area = (10.5 )
+    area = (10.5 + )
 
 
 if __name__ == "__main__":
