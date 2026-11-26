@@ -6,7 +6,7 @@ def get_number_sequence(n: int) -> str:
 
 def main():
     # Replace pass with your Python code.
-    
+    get_number_sequence(6)
 
 
 if __name__ == "__main__":
